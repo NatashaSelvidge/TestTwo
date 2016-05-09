@@ -1,7 +1,6 @@
 import java.util.Random; 
 
 public class Dice {
- public static void main (){}
  public static int throwDice(int userInput){
   Random randomGenerator = new Random();
   int diceValue = 0;
